@@ -21,3 +21,27 @@ img {
 section {
   margin: 20px 0;
 }
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+table td, table th {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+table th {
+  background-color: #f4f4f4;
+}
+
+table h3 {
+  margin: 0;
+  font-size: 1.1em;
+}
+
+table p {
+  margin: 0;
+}
