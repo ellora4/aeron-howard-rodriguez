@@ -3,7 +3,7 @@ body {
   max-width: 800px;
   margin: 0 auto;
   padding: 20px;
-  background-color: black; /* Dark background to enhance text readability */
+color: lightyellow;
 }
 
 header, footer {
