@@ -9,6 +9,21 @@ body {
 header, footer {
   text-align: center;
 }
+.nav-btn {
+  padding: 10px 20px;
+  font-size: 1em;
+  background-color: #4CAF50; /* Green */
+  color: white;
+  border: none;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.nav-btn:hover {
+  background-color: #45a049; /* Darker green on hover */
+}
 
 header h1 {
   font-size: 2em;
